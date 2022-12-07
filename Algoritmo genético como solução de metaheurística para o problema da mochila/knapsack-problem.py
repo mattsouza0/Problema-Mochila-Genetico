@@ -31,7 +31,7 @@ for indice,dados in enumerate(historico_de_fitness):
 
 print("\nValor máximo: R$",peso_maximo,"\n\nItens disponíveis:")
 for indice,i in enumerate(pesos_e_valores):
-    print("Carro",indice+1,": R$",i[0],"| Raridade",i[1]) #posso imprimir o nome do carrro na frente ANALISAR DPS
+    print("Carro",indice+1,": R$",i[0],"| Raridade",i[1]) #posso imprimir o nome do carrro na frente ANALISAR DPS , "-->",carros[indice]
     
 print("\nAlgumas boas solucoes: \n")
 for i in range(5):
