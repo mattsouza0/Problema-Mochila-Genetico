@@ -1,10 +1,3 @@
-"""O problema da mochila: um problema de otimização combinatória.
-O nome dá-se devido ao modelo de uma situação em que é necessário
-preencher uma mochila com objetos de diferentes pesos e valores.
-O objetivo é que se preencha a mochila com o maior valor possível,
-não ultrapassando o peso máximo."""
-#RODAR COM PYTHON 3!!!
-
 from alGenetico import *
 carros = ["Fusca 1952 Split Window", "Ford Maverick 4 portas", "Willys Itamaraty Executivo", "Karmann Ghia Conversível", \
                    "Lobini H1", "Brasinca 4200 GT", "Maserati Merak 1974", "Cadillac Fleetwood S75 1941", \
